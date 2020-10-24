@@ -1,0 +1,2 @@
+Qual è il primo passaggio nello svolgimento dell'algoritmo?
+Quale tipo di struttura viene utilizzata per l'implementazione?

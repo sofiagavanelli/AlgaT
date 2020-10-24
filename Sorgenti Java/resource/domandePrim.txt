@@ -1,0 +1,11 @@
+In quale anno è stato pubblicato l'algoritmo di Prim?
+/1957/  
+Per un grafo sparso, quale delle due implementazioni viste, avrebbe più senso utilizzare?
+/heap binario/Heap binario/HEAP BINARIO/heap/Heap/ 
+Se si utilizza un vettore non ordinato qual è il costo dell'operazione di decreaseKey()?
+/O(1)/o(1)/costante/Costante/COSTANTE/Costo costante/costo costante/
+Con quale priorità il nodo designato come radice viene inserito nella coda con min-priorità?
+/0/Zero/zero/nulla/Nulla/
+
+
+

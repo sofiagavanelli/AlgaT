@@ -1,0 +1,6 @@
+Per iniziare questa lezione dei aver letto i capitoli 4.2, 9 e 10 del libro di testo.
+Sia G=(V,E) un grafo non orientato e connesso, T=(V,P) e' albero di copertura di G se P e' incluso in E e T contiene tutti i nodi di G.
+Albero di copertura relativo ad un dato grafo, il cui peso totale sia minimo rispetto ad ogni altro albero di copertura.
+Un taglio (S,V-S) di un grafo non orientato G=(V,E) e' una partizione di V (insieme di archi di G) in due sottoinsiemi disgiunti, non vuoti.
+Un grafo G(V,E) e' NON ORIENTATO se E e' un insieme di coppie non ordinate, ed e' CONNESSO se e solo se ogni suo nodo e' raggiungibile da ogni altro suo nodo.
+Dato un grafo G e un suo sottoinsieme di archi A, un arco [u,v] e' detto sicuro per A se (A U {[u, v]}) e' ancora un sottoinsieme di qualche albero di connessione minimo.
