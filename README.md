@@ -11,6 +11,6 @@ java -jar algat.jar
 
 ## Autori
 
-Ritrovato Martina - Introduzione al greedy e gioco delle monete  
-Gavanelli Sofia - Algoritmo di Kruskal  
-Lena Erika - Algoritmo di Prim  
+*Ritrovato Martina* - Introduzione al greedy e gioco delle monete  
+*Gavanelli Sofia* - Algoritmo di Kruskal  
+*Lena Erika* - Algoritmo di Prim  
