@@ -1,6 +1,6 @@
 # AlgaT
-AlgaT è un'applicazione che mostra un tutorial su un argomento del corso di Algoritmi e Strutture Dati.  
-L'argomento da noi scelto è la tecnica del greedy.  
+AlgaT è un'applicazione che mostra un tutorial su un argomento del corso di 'Algoritmi e Strutture Dati'.  
+L'argomento scelto è la tecnica del greedy.  
 
 ## Installazione
 L'applicazione non necessita di installazione.  
