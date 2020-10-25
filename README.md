@@ -5,7 +5,7 @@ L'argomento da noi scelto è la tecnica del greedy.
 ## Installazione
 L'applicazione non necessita di installazione.  
 Per avviarla, aprire il Prompt nella cartella dell'applicazione ed eseguire:  
-'java -jar algat.jar'
+`java -jar algat.jar`
 
 ## Autori
 
