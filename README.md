@@ -8,8 +8,11 @@ The application doesn't require installations of any kind.
 To launch it, open the Command Prompt in the application folder and run:  
 `java -jar algat.jar`
 
-## Authors
+## Authors  
+This code has been developed by *Ritrovato Martina*, *Gavanelli Sofia* and *Lena Erika*:
 
-*Ritrovato Martina* - Introduction to Greedy and money game  
-*Gavanelli Sofia* - Kruskal's Algorithm  
-*Lena Erika* - Prim's Algorithm
+https://github.com/Martiross99 - Introduction to Greedy and money game  
+https://github.com/sofiagavanelli - Kruskal's Algorithm  
+https://github.com/erikalena - Prim's Algorithm  
+
+Feel free to contact anyone for informations or questions. 
