@@ -1,14 +1,15 @@
 # AlgaT
-AlgaT è un'applicazione che mostra un tutorial su un argomento del corso di 'Algoritmi e Strutture Dati'.  
-L'argomento scelto è la tecnica del greedy.  
+## About
+AlgaT is an application concerning a topic of the course 'Algorithms and Data structures' at the University of Bologna.  
+The selected topic is Greedy algorithms.  
 
-## Installazione
-L'applicazione non necessita di installazione.  
-Per avviarla, aprire il Prompt nella cartella dell'applicazione ed eseguire:  
+## Installation
+The application doesn't require installations of any kind.  
+To launch it, open the Command Prompt in the application folder and run:  
 `java -jar algat.jar`
 
-## Autori
+## Authors
 
-*Ritrovato Martina* - Introduzione al greedy e gioco delle monete  
-*Gavanelli Sofia* - Algoritmo di Kruskal  
-*Lena Erika* - Algoritmo di Prim  
+*Ritrovato Martina* - Introduction to Greedy and money game  
+*Gavanelli Sofia* - Kruskal's Algorithm  
+*Lena Erika* - Prim's Algorithm
